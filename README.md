@@ -37,12 +37,7 @@
 </ul>
 
 <h2>Adição de Vídeos do YouTube</h2>
-<p>Na página do projeto, foram adicionados vídeos do YouTube utilizando a técnica de incorporação de vídeos. O código do vídeo foi inserido diretamente no arquivo <code>index.html</code>. Veja um exemplo:</p>
-<pre>
-<code>
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-</code>
-</pre>
+<p>Na página do projeto, foram adicionados vídeos do YouTube utilizando a técnica de incorporação de vídeos. O código do vídeo foi inserido diretamente no arquivo <code>index.html</code>.</p>
 
 <h2>Tecnologias</h2>
 <div>
